@@ -18,3 +18,6 @@ Django and React based T-Shirt store web application
 Frontend - HTML, CSS, Bootstrap, Javascript <br />
 Backend - Django <br />
 Database - Sqlite
+
+![Screenshot (284)](https://user-images.githubusercontent.com/65223389/133486892-0a738d80-232e-452f-84f5-a4bb9abe5c36.png)
+
