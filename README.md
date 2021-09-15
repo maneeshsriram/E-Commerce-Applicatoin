@@ -15,9 +15,10 @@ Django and React based T-Shirt store web application
 <br />
 
 ### Stack used: <br />
-Frontend - HTML, CSS, Bootstrap, Javascript <br />
-Backend - Django <br />
-Database - Sqlite
+Frontend - ReactJS, bootstrap <br />
+Backend - Django rest framework<br />
+Database - PostgreSQL
+Images storage - AWS s3
 
 ![Screenshot (284)](https://user-images.githubusercontent.com/65223389/133486892-0a738d80-232e-452f-84f5-a4bb9abe5c36.png)
 
