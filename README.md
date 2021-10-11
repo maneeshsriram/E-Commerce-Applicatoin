@@ -1,6 +1,8 @@
 # Fashionage
 Django and React based T-Shirt store web application
 
+Project link - https://main.d1shcp35qfzlle.amplifyapp.com/
+
 ## Frontend : <br />
 `cd frontend` <br />
 `npm install` - Installs all the required npm modules from package.json file <br />
